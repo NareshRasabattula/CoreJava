@@ -1,1 +1,0 @@
-This folder (/docs) contains the files served by Simple Web Server)
